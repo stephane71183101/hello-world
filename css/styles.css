@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+  
+/* Create three areas that floats successively */
+#area-portrait {
+    background-color: red;
+    padding: 0px;
+}
+
+#area-details {
+    background-color: #6fa2c4;
+    padding-left: 40px;
+}
+
+#area-experience {
+    background-color: #9d7963;
+    padding-left: 40px;
+}
+
+.area {
+    width: auto;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.expconth2 {
+    margin-top: 50px;
+    margin-bottom: -20px;
+    color: #6fa2c4;
+}
+
+.expconth3 {
+    margin-top: 20px;
+    margin-bottom: -10px;
+}
+
+img {
+        width: 100%;
+        display: block;
+        position: relative;
+}
+
+h1 {
+    font-size: 300%;
+    color: rgb(255, 255, 255);
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 200%;
+}
+
+h3 {
+    font-size: 130%;
+}
+
+p {
+    font-size: 200%;
+}
+
+a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+
+a:hover {
+    color: rgb(255, 255, 255);
+    text-decoration-line: none;
+    text-decoration-style: solid;
+}
+
